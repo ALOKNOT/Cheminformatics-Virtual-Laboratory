@@ -6,7 +6,7 @@ app_file: index.html
 
 # Cheminformatics Virtual Laboratory
 
-**Authors:** KOLAN MAASIRI REDDY & SEEMA E  
+**Authors:**  ALOK KUMAR
 **Institution:** SRM Institute of Science and Technology, Tiruchirappalli  
 
 ## Overview
